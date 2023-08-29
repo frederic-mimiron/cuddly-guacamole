@@ -1,6 +1,7 @@
 {
-    "technicalWorkshop.title": "Technical Workshop",
-    "technicalWorkshop.frontend.title": "Backend tickets",
-    "technicalWorkshop.footer.title": "The Ultimate Translated Footer",
-    "webhook.pull.new.terms": "Boom ! It worked when I accessed the link"
+  "technicalWorkshop.title": "Technical Workshop",
+  "technicalWorkshop.frontend.title": "Backend tickets",
+  "technicalWorkshop.footer.title": "The Ultimate Translated Footer",
+  "webhook.pull.new.terms": "Boom ! It worked when I accessed the link",
+  "webhook.automated.or.not": ""
 }
